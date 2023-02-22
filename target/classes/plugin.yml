@@ -1,0 +1,10 @@
+name: Customnpc
+version: '1.0-SNAPSHOT'
+main: customnpc.customnpc.Customnpc
+api-version: 1.19
+authors: [ kihfas ]
+description: customnpc
+commands:
+  createnpc:
+    usage: <command>
+    description: creates npc
